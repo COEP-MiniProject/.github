@@ -6,7 +6,7 @@ This GitHub Organization hosts private repositories for CSE department mini-proj
 
 | Team | Role |
 | :--- | :--- |
-| `CSE-Faculty` | HODs and coordinators — Admin access to all repos |
+| `CSE-Faculty` | Department Admins — Admin access to all repos |
 | `DivXX-TYY-Mentors` | Assigned mentors — Admin access to their team's repos only |
 | `DivXX-TYY-WorkletZZ` | Students — Push access to their assigned worklet repo only |
 
